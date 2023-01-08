@@ -2,14 +2,13 @@
 
 Visitors:![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Lipkison&left_color=grey&right_color=blue)
 
-I use daily:![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=Visual%20Studio%20Code)![git](https://img.shields.io/badge/-git-grey?logo=git)
+I use daily:![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=Visual%20Studio%20Code)![git](https://img.shields.io/badge/-git-grey?logo=git)[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://blog.i-xiao.space/)
 
 Using and learning:![C++](https://img.shields.io/badge/-C%2B%2B-9cf?logo=C&logoColor=blue)
 
 How to reach me:[![](https://img.shields.io/badge/email-Lipkison%40163.com-critical?link=mailto:Lipkison@163.com)](mailto:Lipkison@163.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lipkison&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipkison&show_icons=true)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipkison&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=Lipkison&count_private=true&show_icons=true" height=145/></span>](https://home.i-xiao.space/blog/)
 <!--
 **Lipkison/Lipkison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
