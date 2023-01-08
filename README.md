@@ -1,5 +1,15 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋;I'm+Lipkison.)](https://git.io/typing-svg)
 
+Visitors:![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Lipkison&left_color=grey&right_color=blue)
+
+I use daily:![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=Visual%20Studio%20Code)![git](https://img.shields.io/badge/-git-grey?logo=git)
+
+Using and learning:![C++](https://img.shields.io/badge/-C%2B%2B-9cf?logo=C&logoColor=blue)
+
+How to reach me:[![](https://img.shields.io/badge/email-Lipkison%40163.com-critical?link=mailto:Lipkison@163.com)](mailto:Lipkison@163.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lipkison&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipkison&show_icons=true)
 <!--
 **Lipkison/Lipkison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
